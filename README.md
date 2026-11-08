@@ -30,10 +30,10 @@ Containerized web farm built for availability: **Nginx** load balancing across *
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) ![Locust](https://img.shields.io/badge/Locust-1F4E79?style=flat-square&logo=locust&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-### 🧩 [Accessible Pictogram Task App](https://github.com/josedimas23/pictogram-task-app)
+### 🧩 [SyncMind · Accessible Pictogram Task App](https://github.com/josedimas23/syncmind-pictogram-tasks)
 *Team project*
 
-Mobile app that helps special-education students complete tasks on their own, guided step by step with **pictograms**. Teachers create and assign tasks; students follow them in an interface designed for accessibility.
+Mobile app that helps special-education students complete tasks on their own, guided step by step with **pictograms**. Teachers create and assign tasks; students follow them in an interface designed for accessibility. Runs locally in one command with a seeded Firestore emulator.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
