@@ -24,7 +24,7 @@ Scalable IoT platform running on Kubernetes: simulated sensors stream data into 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat-square) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ### 🌐 [High-Availability Web Farm](https://github.com/josedimas23/web-server-farm)
-*Server infrastructure 
+Server infrastructure 
 
 Containerized web farm built for availability: **Nginx** load balancing across **Apache** backends, **HTTPS**, an **iptables** firewall, and load testing with **ab** and **Locust** to measure how it holds up.
 
